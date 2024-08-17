@@ -33,10 +33,8 @@
       "url": "https://camunda.com/",
       "startDate": "2023-09-15",
       "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
-      "highlights": [
-        "Improved website performance by optimizing code"
-      ],
+      "summary": "Develop Helm Charts to manage the Camunda 8 applications stack for our self-managed offering",
+      "highlights": ["Improved website performance by optimizing code"],
       "responsibilities": [
         "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
         "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
@@ -45,11 +43,7 @@
       "achievements": [
         "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
       ],
-      "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
-      ]
+      "skills": ["React", "Tailwind", "GitHub"]
     }
   ],
   "volunteer": [
@@ -60,9 +54,7 @@
       "startDate": "2021-01-01",
       "endDate": "2022-01-01",
       "summary": "Helped organize coding workshops and mentored new members.",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
+      "highlights": ["Awarded 'Volunteer of the Month'"]
     }
   ],
   "education": [
@@ -106,46 +98,27 @@
     {
       "name": "Kubernetes",
       "level": "Expert",
-      "keywords": [
-        "Design",
-        "UI"
-      ]
+      "keywords": ["Design", "UI"]
     },
     {
       "name": "GCP",
       "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
     },
     {
       "name": "Kustomize",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend"
-      ]
+      "keywords": ["Web Development", "Frontend"]
     },
     {
       "name": "Azure",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Responsive Design"
-      ]
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
     },
     {
       "name": "JavaScript",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "Fullstack"
-      ]
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "Tailwind",
@@ -170,41 +143,22 @@
     {
       "name": "Node",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
     },
     {
       "name": "MySQL",
       "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "SQL",
-        "Data Storage",
-        "Backend"
-      ]
+      "keywords": ["Databases", "SQL", "Data Storage", "Backend"]
     },
     {
       "name": "Git",
       "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
     },
     {
       "name": "Openshift",
       "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code",
-        "Git"
-      ]
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
     },
     {
       "name": "Helm",
@@ -330,12 +284,7 @@
     {
       "name": "React",
       "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
     }
   ],
   "languages": [
@@ -355,10 +304,7 @@
   "interests": [
     {
       "name": "Technology",
-      "keywords": [
-        "AI",
-        "Blockchain"
-      ]
+      "keywords": ["AI", "Blockchain"]
     }
   ],
   "references": [
@@ -384,12 +330,7 @@
       "name": "Golang to do list",
       "isActive": true,
       "description": "A simple to do list in Go",
-      "highlights": [
-        "Create",
-        "Read",
-        "Update",
-        "Delete"
-      ],
+      "highlights": ["Create", "Read", "Update", "Delete"],
       "url": "https://github.com/hamza-m-masood/golang-todolist"
     }
   ],
@@ -408,30 +349,21 @@
       "name": "Functions in Go",
       "isActive": true,
       "description": "Sharing how functions work in Go",
-      "highlights": [
-        "Pass by value",
-        "Pointers and more.."
-      ],
+      "highlights": ["Pass by value", "Pointers and more.."],
       "url": "https://hamza-masood.com/functions-in-go/"
     },
     {
       "name": "Docker Overview",
       "isActive": true,
       "description": "An introduction to Docker for complete beginners",
-      "highlights": [
-        "What can it do?",
-        "How can it run?"
-      ],
+      "highlights": ["What can it do?", "How can it run?"],
       "url": "https://hamza-masood.com/docker-overview/"
     },
     {
       "name": "File i/o in Go",
       "isActive": true,
       "description": "Understanding file handling in Go",
-      "highlights": [
-        "Printing contens of files",
-        "Misc file commands"
-      ],
+      "highlights": ["Printing contens of files", "Misc file commands"],
       "url": "https://hamza-masood.com/file-io-in-go/"
     }
   ]
